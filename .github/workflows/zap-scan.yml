@@ -19,4 +19,4 @@ jobs:
         uses: zaproxy/action-full-scan@v0.4.0
         with:
           docker_name: 'owasp/zap2docker-stable'
-          target: 'https://app-vulnerable-hackademy-gkarp.herokuapp.com/'
+          target: 'https://app-vulnerable-hackademy-gk.herokuapp.com/'
